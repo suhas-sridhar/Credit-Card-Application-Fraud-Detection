@@ -1,4 +1,4 @@
-# Credit-Card-Application-Fraud-Detection
+# Credit-Card-Transaction-Fraud-Detection
 
 ### How account compromised:
 - Lost/Stolen card. Someone steals your card or you lose it, and someone uses it.
